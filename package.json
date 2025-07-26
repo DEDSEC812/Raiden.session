@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "maher-zubair-baileys": "latest",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
